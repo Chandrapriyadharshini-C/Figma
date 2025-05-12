@@ -33,8 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
-![Screenshot 2025-05-12 112545](https://github.com/user-attachments/assets/41564305-ebaf-41f6-8497-b7d8fe2ca337)
-
+![Screenshot 2025-05-12 114612](https://github.com/user-attachments/assets/149f5f3f-e5d6-4d01-b5f1-b804cc34e8b0)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
